@@ -1,3 +1,3 @@
 # Jogos Preferidos
-TES Skyrim
-The Witcher 3
+*TES Skyrim
+*The Witcher 3
